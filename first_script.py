@@ -4,7 +4,12 @@ def say_hi():
 
 say_hi()
 
-a = 3
-b = 4
+x = 100
+another_variable = 1
+print(another_variable + x)
 
-print(a + b)
+print("I have", x, "DKK")
+
+y = x * 2
+
+
